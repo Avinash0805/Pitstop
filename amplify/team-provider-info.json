@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cler-dev-133608-authRole",
+      "UnauthRoleArn": "arn:aws:iam::231468278742:role/amplify-cler-dev-133608-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::231468278742:role/amplify-cler-dev-133608-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-cler-dev-133608-deployment",
+      "UnauthRoleName": "amplify-cler-dev-133608-unauthRole",
+      "StackName": "amplify-cler-dev-133608",
+      "StackId": "arn:aws:cloudformation:ap-south-1:231468278742:stack/amplify-cler-dev-133608/45ae3e10-267c-11ec-b22d-0a6cdaa7cb4c",
+      "AmplifyAppId": "dpom92sf2akad"
+    },
+    "categories": {
+      "auth": {
+        "cler75a02010": {}
+      }
+    }
+  }
+}
